@@ -1,0 +1,18 @@
+Seed 3375007, World Scale 6. Previews are renders of the generated heights, not screenshots.
+
+01_lake_shore: South shore of the lake, eye level, cliff and summit across the water
+    /tp @s 99355 65 -35130 173.3 -14.0    (ground there is Y 63)
+02_lake_southeast: Just above the lake's south-east shore, water in the foreground and the cliff wall behind
+    /tp @s 99560 77 -35470 151.8 -10.0    (ground there is Y 63)
+03_aerial_south: High over the plain south of the lake, the whole mountain above the lake
+    /tp @s 99450 330 -34250 173.4 -4.0    (ground there is Y 63)
+04_summit_down: From the summit, looking down the face to the lake and the sea bays
+    /tp @s 99051 1306 -37700 -6.8 27.0    (ground there is Y 1303)
+05_cliff_top: Top of the south-west cliff, looking over the drop to the lake
+    /tp @s 98538 720 -36331 -48.2 16.0    (ground there is Y 717)
+06_cliff_base: Foot of the cliff by the lake's north-west shore, looking up the wall
+    /tp @s 98980 68 -36060 -179.5 -27.0    (ground there is Y 66)
+07_east_profile: From the east at mid height, the cliff in profile with the lake below
+    /tp @s 100650 260 -35850 116.6 -5.0    (ground there is Y 67)
+08_bay_wide: Wide establishing shot from over the sea bay to the south-east
+    /tp @s 101300 420 -33700 146.3 -1.0    (ground there is Y 63)

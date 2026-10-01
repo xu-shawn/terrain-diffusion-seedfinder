@@ -1,0 +1,2 @@
+# NAME ip:port — one GPU box per line (see scripts/collect.sh)
+A 203.0.113.10:41402

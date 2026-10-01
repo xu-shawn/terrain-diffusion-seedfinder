@@ -1,0 +1,7 @@
+numpy
+scipy
+numba
+pillow
+pyfastnoiselite==0.0.6
+onnxruntime          # CPU; on a CUDA box use onnxruntime-gpu==1.20.0 instead (the version the mod ships)
+scikit-learn         # only for experiments/ranker_test.py

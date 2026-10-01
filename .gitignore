@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+# downloaded / generated
+models/
+harness/build/
+harness/lib/
+harness/out/
+# working data
+work/
+prod/
+hosts.txt
+results/**/*.png
+results/**/*.npy
+# reference checkouts of the upstream projects
+terrain-diffusion/
+terrain-diffusion-mc/

@@ -1,0 +1,137 @@
+{
+ "seed": 3375007,
+ "crop": "work/crop_3375007.npy",
+ "crop_i0": -6656,
+ "crop_j0": 15872,
+ "blocks": "work/blocks_3375007.bin",
+ "blocks_region": [
+  -38400,
+  97280,
+  -34816,
+  100864
+ ],
+ "sun_azimuth": 105.0,
+ "sun_altitude": 38.0,
+ "shots": [
+  {
+   "name": "01_lake_shore",
+   "note": "South shore of the lake, eye level, cliff and summit across the water",
+   "camera_xz": [
+    99355,
+    -35130
+   ],
+   "eye_above_ground": 2,
+   "look_at_xz": [
+    99051,
+    -37707
+   ],
+   "pitch_up": 14,
+   "fov": 80
+  },
+  {
+   "name": "02_lake_southeast",
+   "note": "Just above the lake's south-east shore, water in the foreground and the cliff wall behind",
+   "camera_xz": [
+    99560,
+    -35470
+   ],
+   "eye_above_ground": 14,
+   "look_at_xz": [
+    98900,
+    -36700
+   ],
+   "pitch_up": 10,
+   "fov": 85
+  },
+  {
+   "name": "03_aerial_south",
+   "note": "High over the plain south of the lake, the whole mountain above the lake",
+   "camera_xz": [
+    99450,
+    -34250
+   ],
+   "y": 330,
+   "look_at_xz": [
+    99051,
+    -37707
+   ],
+   "pitch_up": 4,
+   "fov": 70
+  },
+  {
+   "name": "04_summit_down",
+   "note": "From the summit, looking down the face to the lake and the sea bays",
+   "camera_xz": [
+    99051,
+    -37700
+   ],
+   "eye_above_ground": 3,
+   "look_at_xz": [
+    99293,
+    -35657
+   ],
+   "pitch_up": -27,
+   "fov": 85
+  },
+  {
+   "name": "05_cliff_top",
+   "note": "Top of the south-west cliff, looking over the drop to the lake",
+   "camera_xz": [
+    98538,
+    -36331
+   ],
+   "eye_above_ground": 3,
+   "look_at_xz": [
+    99293,
+    -35657
+   ],
+   "pitch_up": -16,
+   "fov": 85
+  },
+  {
+   "name": "06_cliff_base",
+   "note": "Foot of the cliff by the lake's north-west shore, looking up the wall",
+   "camera_xz": [
+    98980,
+    -36060
+   ],
+   "eye_above_ground": 2,
+   "look_at_xz": [
+    98990,
+    -37300
+   ],
+   "pitch_up": 27,
+   "fov": 90
+  },
+  {
+   "name": "07_east_profile",
+   "note": "From the east at mid height, the cliff in profile with the lake below",
+   "camera_xz": [
+    100650,
+    -35850
+   ],
+   "y": 260,
+   "look_at_xz": [
+    98850,
+    -36750
+   ],
+   "pitch_up": 5,
+   "fov": 75
+  },
+  {
+   "name": "08_bay_wide",
+   "note": "Wide establishing shot from over the sea bay to the south-east",
+   "camera_xz": [
+    101300,
+    -33700
+   ],
+   "y": 420,
+   "look_at_xz": [
+    99100,
+    -37000
+   ],
+   "pitch_up": 1,
+   "fov": 60
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "name": "seed6463007",
+ "seed": 6463007,
+ "scale": 6,
+ "region": {
+  "z1": 47104,
+  "x1": -194048,
+  "z2": 50944,
+  "x2": -192000
+ },
+ "gpu_vs_cpu": {
+  "exact": 0.8773642222086588,
+  "within1": 1.0,
+  "max_abs": 1,
+  "water_agreement": 0.9951966603597006
+ },
+ "lake": {
+  "center_x": -193059,
+  "center_z": 48158,
+  "area_blocks": 415225,
+  "area_km2": 10.380625,
+  "touches_region_edge": false,
+  "x_range": [
+   -193461,
+   -192648
+  ],
+  "z_range": [
+   47817,
+   48494
+  ],
+  "water_depth_blocks_median": 2.0,
+  "water_depth_blocks_max": 4
+ },
+ "peak": {
+  "x": -192909,
+  "z": 50029,
+  "y": 1200,
+  "height_above_lake_blocks": 1137,
+  "elevation_m": 5685,
+  "blocks_from_lake": 1560
+ },
+ "rise_within": {
+  "200_blocks": 111,
+  "400_blocks": 249,
+  "600_blocks": 439,
+  "1000_blocks": 804,
+  "1600_blocks": 1137
+ },
+ "steepest_200_block_window": {
+  "drop_blocks": 396,
+  "x": -192478,
+  "z": 49098
+ },
+ "camera": {
+  "x": -193084,
+  "y": 72,
+  "z": 47859,
+  "yaw": -4.6,
+  "pitch": -15.9
+ },
+ "tp_command": "/tp @s -193084 72 47859 -4.6 -15.9",
+ "biome_ids": {
+  "1": 32052,
+  "6": 3600,
+  "16": 3442865,
+  "19": 413721,
+  "32": 513377,
+  "35": 923108,
+  "46": 415225,
+  "115": 1370161,
+  "116": 750211
+ },
+ "aerial_camera": {
+  "x": -193125,
+  "y": 374,
+  "z": 47360
+ }
+}
